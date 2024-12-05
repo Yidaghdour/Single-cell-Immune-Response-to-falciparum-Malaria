@@ -1,4 +1,4 @@
-# The Impact of Ethnicity on the Single-cell Immune Response to Falciparum Malaria  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4016612.svg)](https://doi.org/10.5281/zenodo.4016612)
+# The Impact of Ethnicity on the Single-cell Immune Response to Falciparum Malaria  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14284664.svg)](https://doi.org/10.5281/zenodo.14284664)
 
 
 This repository contains the information related to **The Impact of Ethnicity on the Single-cell Immune Response to Falciparum Malaria**.
