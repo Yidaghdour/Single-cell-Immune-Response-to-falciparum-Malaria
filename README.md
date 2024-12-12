@@ -30,7 +30,8 @@ Cell Ranger output per batch is available via Gene Expression Omnibus:
 **Batch 1:** [GSE273781](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE273781)  
 **Batch 2:** [GSE273785](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE273785)  
 
-Seurat RDs file and supplementry files are availvale in this [google folder](https://drive.google.com/drive/folders/1SKmAB3cIQhjWvicYUXdpejSxxvWF3zUU?usp=share_link)
+Seurat RDs file and supplementry files are availvale in this [**google folder**](https://drive.google.com/drive/folders/1SKmAB3cIQhjWvicYUXdpejSxxvWF3zUU?usp=share_link)
+
 ---
 
 ### Consortium Analysis
