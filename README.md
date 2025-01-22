@@ -1,5 +1,5 @@
-# Single-cell Transcriptomics Reveals Inter-ethnic Variation in Immune Response to Falciparum Malaria. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14284664.svg)](https://doi.org/10.5281/zenodo.14284664)
-
+# Single-cell Transcriptomics Reveals Inter-ethnic Variation in Immune Response to Falciparum Malaria. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14719257.svg)](https://doi.org/10.5281/zenodo.14719257)
+Jan 22, 2025
 
 This repository contains the information related to **The Impact of Ethnicity on the Single-cell Immune Response to Falciparum Malaria**.
 
